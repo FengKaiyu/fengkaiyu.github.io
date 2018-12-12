@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaiyu FENG</title>
+    <link>https://fengkaiyu.github.io/</link>
+    <description>Recent content on Kaiyu FENG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Apr 2016 15:21:22 +0200</lastBuildDate>
+    
+	<atom:link href="https://fengkaiyu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to my homepage!</title>
+      <link>https://fengkaiyu.github.io/</link>
+      <pubDate>Sat, 23 Apr 2016 15:21:22 +0200</pubDate>
+      
+      <guid>https://fengkaiyu.github.io/</guid>
+      <description>Shortbio Research Interests My main research interests include spatial database management and graph database. I am particularly interested in
+ Querying geo-tagged stream (ICDE&amp;rsquo;18) Spatial data visualization (SIGMOD&amp;rsquo;18) Efficient processing of spatial queries (SIGMOD&amp;rsquo;16, VLDB&amp;rsquo;16) Graph and social data analysis (SIGMOD&amp;rsquo;14, TKDE&amp;rsquo;16, ICDE&amp;rsquo;17)  Publication  SURGE: Continuous detection of bursty regions over a stream of spatial objects.
+Kaiyu Feng, Tao Guo, Gao Cong, Sourav S. Bhowmick, Shuai Ma. ICDE 2018 (short) Efficient selection of geospatial data on maps for interactive visualized exploration.</description>
+    </item>
+    
+  </channel>
+</rss>
